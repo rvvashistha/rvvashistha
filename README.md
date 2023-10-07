@@ -1,6 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rvvashistha.rvvashistha " />
-<div align="center"> <img  width="1100" height="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> </div>
-<hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Kumar+vashistha!;" />
 </h1>
